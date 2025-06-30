@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxN3l0bDg3ajM4eWx2aWtpNzRlcHVoMTR3aWlraHMxanhrMGZyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img src="jeusinho.gif" width="100%" />
 
 
 # 👋 Fala aí, eu sou o Felipe Braga! 😇  
